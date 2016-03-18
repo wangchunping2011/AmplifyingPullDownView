@@ -1,0 +1,2 @@
+# AmplifyingPullDownView
+纯代码实现UITableUITableView的headerView上包含imageView，下拉tableView，图片放大效果
