@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  TestDemo
+//
+//  Created by 王春平 on 16/3/17.
+//  Copyright © 2016年 wang. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+//imageView的初始高度
+#define PullDownViewHeight 200
+
+#endif /* PrefixHeader_pch */
