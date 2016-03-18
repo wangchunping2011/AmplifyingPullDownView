@@ -10,6 +10,6 @@
 #define PrefixHeader_pch
 
 //imageView的初始高度
-#define PullDownViewHeight 200
+#define PullDownViewHeight 200.0
 
 #endif /* PrefixHeader_pch */
